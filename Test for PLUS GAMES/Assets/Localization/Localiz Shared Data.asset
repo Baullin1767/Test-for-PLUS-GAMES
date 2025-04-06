@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localiz Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localiz
+  m_TableCollectionNameGuidString: 1c963030e1a9eba438abe66af807ca54
+  m_Entries:
+  - m_Id: 21243731968
+    m_Key: France
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68727447552
+    m_Key: Egypt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87639564288
+    m_Key: Japan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105905758208
+    m_Key: United States
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133156151296
+    m_Key: What country you wish visit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213254774784
+    m_Key: Add
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268791554048
+    m_Key: Your dream country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 309488885760
+    m_Key: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1186895339520
+    m_Key: Countries
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1036728565319860496
+  references:
+    version: 2
+    RefIds:
+    - rid: 1036728565319860496
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1743960742819
